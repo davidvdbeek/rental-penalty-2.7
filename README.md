@@ -17,7 +17,7 @@ Using two public Eurostat datasets, this project analyses housing affordability 
 
 Clone this repository:
 ```
-[git clone https://github.com/davidvdbeek/format-assignment-.git](https://github.com/davidvdbeek/rental-penalty-2.7.git)
+git clone https://github.com/davidvdbeek/rental-penalty-2.7.git
 ```
 
 Open RStudio and open the cloned folder via **File → Open Project**
