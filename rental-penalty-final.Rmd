@@ -55,7 +55,7 @@ fmt1 <- function(x) {
 
 **Tutorial lecturer:** C. Schouwenaar
 
-**GitHub repository:** https://github.com/davidvdbeek/format-assignment-
+**GitHub repository:** https://github.com/davidvdbeek/rental-penalty-2.7
 
 # Introduction and research question
 
@@ -460,7 +460,7 @@ The main limitation is that the data are country-level indicators. They cannot c
 
 The knitted PDF contains the link to the public GitHub repository for this project:
 
-https://github.com/davidvdbeek/format-assignment-
+https://github.com/davidvdbeek/rental-penalty-2.7
 
 ## How this project is reproduced
 
